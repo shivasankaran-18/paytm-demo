@@ -1,5 +1,5 @@
 
-## Build a basic version of PayTM
+## A basic version of PayTM
 
 -A User can signup and signin
 
